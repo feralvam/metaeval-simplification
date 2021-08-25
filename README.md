@@ -1,4 +1,4 @@
-# Meta-Evaluation of Automatic Evaluation Metrics for Sentence Simplification
+# Meta-Evaluation of Automatic Evaluation Metrics for Text Simplification
 
 This is the accompanying repository for the paper [The (Un)Suitability of Automatic Evaluation Metrics for Text Simplification](https://direct.mit.edu/coli/article/doi/10.1162/coli_a_00418/106930/The-Un-Suitability-of-Automatic-Evaluation-Metrics) (Accepted to *Computational Linguistics*).
 
