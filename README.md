@@ -2,15 +2,13 @@
 
 We present the first meta-evaluation of automatic metrics in Text Simplification to analyse the variation of the correlation between metrics’ scores and human judgments across three dimensions: the perceived simplicity level, the system type, and the set of references used for computation.
 
-
 ![A table showcasing the main findings of our metaevaluation using the Simplicity-DA dataset](https://user-images.githubusercontent.com/2760680/181297857-14cdd48a-0d9d-4bf1-9dee-0a7df505ec81.png)
-
 
 This repository includes:
 
 - [Simplicity-DA](simplicity_DA.csv), a new dataset with human judgments of simplification quality (in terms of "simplicity") elicited via a methodology inspired by Direct Assessment;
 - The individual [ratings_per_annotator](/ratings_per_annotator/) from the Simplicity-DA and the Structural Simplicity datasets;
-- [Notebooks](notebooks) with the code to reproduce our meta-evaluation and analysis.
+- [Notebooks](notebooks) with the code to reproduce our meta-evaluation and analyses.
 
 ## Licence
 
