@@ -6,8 +6,8 @@ We present the first meta-evaluation of automatic metrics in Text Simplification
 
 This repository includes:
 
-- [Simplicity-DA](simplicity_DA.csv), a new dataset with human judgments of simplification quality (in terms of "simplicity") elicited via a methodology inspired by Direct Assessment;
-- The individual [ratings_per_annotator](/ratings_per_annotator/) from the Simplicity-DA and the Structural Simplicity datasets;
+- [Simplicity-DA](data/simplicity_DA.csv), a new dataset with human judgments of simplification quality (in terms of "simplicity") elicited via a methodology inspired by Direct Assessment;
+- The individual [ratings_per_annotator](data/ratings_per_annotator/) from the Simplicity-DA and the Structural Simplicity datasets;
 - [Notebooks](notebooks) with the code to reproduce our meta-evaluation and analyses.
 
 ## Licence
